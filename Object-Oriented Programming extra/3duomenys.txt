@@ -1,0 +1,7 @@
+In this line ther is no url, only subjects
+Same here
+You can find a lot of information at www.google.com 
+Or a lot of videos on http://www.youtube.com 
+No url again
+Also test this: https://www.testwebsite.com
+University page: www.vu.com
